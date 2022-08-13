@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Homework6\\Homework6.csproj",
-      "projectName": "Homework6",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\Homework6\\Homework6.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Homework6\\Task_1\\Task_1.csproj",
+      "projectName": "Task_1",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\Homework6\\Task_1\\Task_1.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Desktop\\Homework6\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\Homework6\\Task_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
